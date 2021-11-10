@@ -1,0 +1,3 @@
+- OAuth ubaciti, kako bi se login-ovao preko Google-a
+- Razdvojiti servise, razmisliti kako najbolje da se odvoje i povezu
+
